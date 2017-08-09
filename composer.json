@@ -1,0 +1,15 @@
+{
+    "name": "crylis-framework/yaml",
+    "description": "Yaml Parser",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "authors": [
+        {
+            "name": "GlacialS",
+            "email": "help@glacials.net"
+        }
+    ],
+    "minimum-stability": "dev"
+}
